@@ -13,6 +13,7 @@ Kotlin est un langage de programmation moderne qui aide les développeurs à gag
 
 ## Note
 - Inférence de type ?
+Bien que Kotlin soit un langage à typage statique (Un langage dans lequel le type de la variable est déterminé au moment de la compilation), vous n'êtes pas obligé de spécifier explicitement le type de chaque variable que vous déclarez.
 
 - Expliquer le message d'erreur de ce code : 
 
