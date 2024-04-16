@@ -36,9 +36,8 @@ Bien que Kotlin soit un langage à typage statique (Un langage dans lequel le ty
  - we have this error `Val cannot be reassigned`
 
 
-##  Variables and data types
-
-
 
 ## Références 
 - https://developer.android.com/training/kotlinplayground
+  
+  <!-- new slide -->

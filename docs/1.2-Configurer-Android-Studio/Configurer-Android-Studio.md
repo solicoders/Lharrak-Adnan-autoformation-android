@@ -15,5 +15,9 @@ Donnez la définitions de terme suivant :
   Un IDE se compose généralement d'un éditeur de code source, d'un compilateur ou d'un interpréteur, d'outils d'automatisation de build et d'un débogueur, le tout intégré dans une seule interface. 
   Les IDE sont conçus pour rationaliser le processus de développement en fournissant des fonctionnalités telles que la complétion du code, la coloration syntaxique, la gestion de projet et les outils de débogage, qui aident les développeurs à écrire, tester et déboguer leur code plus efficacement.
 
+## Références 
+
+- [1.2 Configurer android studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2?hl=fr)
+
 <!-- new slide -->
  
